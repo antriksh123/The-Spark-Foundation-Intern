@@ -2,6 +2,6 @@
 
 You will find here my submission of TSF tasks
 
-Tech Stack used - Pandas, Numpy, Matplotlib, Seaborn, Geopandas, nltk, python
+Libraries used - Pandas, Numpy, Matplotlib, Seaborn, Geopandas, nltk, python
 
 Notebook - Juypter 
